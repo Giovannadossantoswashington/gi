@@ -1,0 +1,36 @@
+body {
+background: #lightblue;
+}
+#logo.jpeg {
+width: 100%;
+}
+em {
+color: red;
+}
+
+h1{
+text-align:center;
+}
+
+P{
+text-align: center;
+color:  yellow;
+}
+
+h2{
+text-align: center;
+}
+
+ul{display: inline-block;
+vertical-align: top;
+width: 20%;
+margin-right: 15%;
+}
+
+.valor{
+background: hotpink;
+}
+
+.título-principal{
+padding-left: 20px;
+}
